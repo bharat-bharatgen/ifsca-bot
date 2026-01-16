@@ -47,8 +47,15 @@ function WelcomeScreen() {
       <h1 className="text-xl sm:text-2xl font-semibold text-gray-800 mb-2 text-center">
         How can I help you today?
       </h1>
-      <p className="text-sm sm:text-base text-gray-500 mb-6 sm:mb-8 text-center max-w-md">
+      <p className="text-sm sm:text-base text-gray-500 mb-2 text-center max-w-md">
         Ask me anything about IFSCA regulations, guidelines, and compliance requirements.
+      </p>
+      <p className="text-xs text-gray-400 mb-6 sm:mb-8 text-center flex items-center justify-center gap-1.5">
+        Powered by
+        <span className="flex items-center gap-1">
+          <img src="/bharatgen-logo.png" alt="BharatGen" className="h-3 w-auto" />
+          <span className="font-semibold text-[#1a5694]">BharatGen</span>
+        </span>
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-3 w-full max-w-2xl">
