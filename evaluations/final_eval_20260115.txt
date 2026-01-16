@@ -1,0 +1,447 @@
+
+================================================================================
+Question 1:
+================================================================================
+I am an existing Ancillary Service Provider authorised under the February 2021 circular. Do I need to re-register under the new 2025 Regulations?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+Yes. According to Regulation 20(3) of the TechFin Regulations 2025, existing providers must obtain a new certificate of registration within 12 months (extendable to 24 months). The 2021 circular is repealed after 24 months. 
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Yes.**  
+Under the *International Financial Services Centres Authority (TechFin and Ancillary Services) Regulations, 2025* the earlier February 2021 circular is superseded. The 2025 Regulations mandate that **all** ancillary service providers—whether newly incorporated or already operating under a prior circular—must register under the new framework to continue operating in the IFSC.  
+
+**Why re‑registration is required**
+
+1. **Supersession of the 2021 Circular** – The 2025 Regulations replace the February 2021 circular and its annexures.  
+2. **Section 3(1)(xiii) of the 2025 Regulations** (the section that re‑defines ancillary services) requires a fresh registration for each provider to ensure compliance with the updated risk‑management, reporting, and capital‑adequacy norms.  
+3. **Fee Structure** – For a new registration, the Ancillary Service Provider fee (5‑year block) is USD 2,000 (see the FE Framework 2022 Annexure‑VIII).  
+
+**What to do next**
+
+1. **Submit a new registration application** under the 2025 Regulations, providing updated corporate documents, risk‑management framework, and proof of compliance with the new capital and reporting requirements.  
+2. **Pay the USD 2,000 Ancillary Service Provider fee** (5‑year block) as per the FE Framework 2022.  
+3. **Await approval** from IFSCA. Once approved, you will receive a new registration certificate that supersedes the 2021 circular authorization.
+
+If you have already submitted a 2025‑regulation‑compliant application and received approval, no further action is needed. Otherwise, re‑registration is mandatory to remain compliant.
+
+================================================================================
+
+
+================================================================================
+Question 2:
+================================================================================
+What is the maximum grant amount available under the 'Green FinTech Grant' and what is it for?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+INR 7.5 Million (Rs 75 Lakhs). It is for developing solutions facilitating sustainable finance, sustainability-linked finance, and ESG investments. 
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Maximum grant amount:** **₹ 75 lakh (₹ 7.5 million)**  
+
+**Purpose:** To finance the development of sustainable finance solutions that are linked to ESG (Environment‑Social‑Governance) investments. The grant supports projects that facilitate sustainable finance and ESG‑linked finance within the IFSC framework.  
+
+*Source:* Green FinTech Grant description in the IFSCA FinTech Incentive Scheme 2022 – “A grant up to Rs 75 lacs targeting sustainable finance solutions and ESG‑linked investments.”
+
+================================================================================
+
+
+================================================================================
+Question 3:
+================================================================================
+Which is more expensive in terms of "Authorization Fees" over a 5-year period: a 'FinTech Entity' or an 'Ancillary Service Provider'?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+FinTech Entity is more expensive. • FinTech Entity: USD 1,500 per annum × 5 = USD 7,500 .• Ancillary Service: USD 2,000 for a block of 5 years.• Difference: FinTech is USD 5,500 more expensive.
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Yes.**  
+A FinTech Entity incurs a higher total authorization cost over a 5‑year period than an Ancillary Service Provider.
+
+**Reasoning**
+
+| Entity | Authorization Fee Type | Amount | Frequency | 5‑Year Total |
+|--------|------------------------|--------|-----------|--------------|
+| **FinTech Entity** | Standard Authorization Fee | USD 1,500 | Per annum | 1,500 × 5 = USD 7,500 |
+| | Limited Use Authorization Fee | USD 500 | One‑time | USD 500 (not part of the 5‑year block) |
+| **Ancillary Service Provider** | Ancillary Service Provider (5‑year block) | USD 2,000 | One‑time block | USD 2,000 |
+
+- The **Standard Authorization Fee** for a FinTech Entity is an annual charge (USD 1,500 per year) as per the FE Framework 2022, Annexure‑VIII.  
+- The **Ancillary Service Provider** fee is a single block payment of USD 2,000 covering the entire 5‑year period, also from the same annexure.
+
+Thus, over five years, the FinTech Entity pays **USD 7,500** (plus the one‑time USD 500 Limited Use fee if applicable), whereas the Ancillary Service Provider pays only **USD 2,000**. Therefore, the FinTech Entity is more expensive in terms of authorization fees.
+
+================================================================================
+
+
+================================================================================
+Question 4:
+================================================================================
+Can a registered TechFin Service Provider offer "Transport and Logistics services" to its clients within GIFT City?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+No. The Third Schedule of the TechFin Regulations 2025 explicitly lists "Transport and logistics services" as a permissible exclusion (prohibited service). 
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**No.**  
+
+A registered TechFin Service Provider (i.e., a FinTech Entity or an Ancillary Service Provider) is permitted to offer only those services that are listed in the **Ancillary Services Framework** (2021 Circular, 2023 Circular, and the 2025 Amendments). Transport and logistics is **not** included in the list of permissible ancillary services in any of these documents.  
+
+**Reasoning chain**
+
+1. **Ancillary Services Framework** – The 2021 Circular, amended in 2023 and 2025, enumerates the services that a registered TechFin Service Provider may provide.  
+2. **Permissible services** – The framework lists services such as KYC/AML, data analytics, payment processing, open banking, insurance‑tech, and other technology‑enabled financial services.  
+3. **Transport & logistics** – This activity is a non‑financial, physical‑goods‑transport service and is absent from the list of allowed ancillary services.  
+4. **Regulatory implication** – Offering transport and logistics would therefore be outside the scope of the Ancillary Services Framework and would require separate licensing under the transport authorities, not under IFSCA.  
+
+Hence, a registered TechFin Service Provider cannot offer transport and logistics services to its clients within GIFT City.
+
+================================================================================
+
+
+================================================================================
+Question 5:
+================================================================================
+What is the specific SWIFT Code for remitting the application fees for an Ancillary Service Provider?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+SBININBB255 (State Bank of India).
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Yes.**  
+The SWIFT code to use when remitting application fees for an Ancillary Service Provider is **SBININBB255** – the code for the State Bank of India branch that holds the IFSCA account.  
+
+*Source:* The IFSCA fee circular (No. 865/IFSCA/Banking/Fee Revision/2022‑23) lists the bank account details for fee remittance, including the SWIFT code **SBININBB255**.
+
+================================================================================
+
+
+================================================================================
+Question 6:
+================================================================================
+I am a TechFin company operating in GIFT City. Can I maintain my official balance sheet in Indian Rupees (INR)?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+No. Regulation 11(2) of TechFin Regulations 2025 mandates that the balance sheet must be maintained in a Specified Foreign Currency. INR is permitted only for administrative/statutory expenses.
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**No.**  
+Under the FinTech Entity (FE) Framework 2022, all financial statements that a TechFin entity must submit to IFSCA – including the balance sheet, profit‑and‑loss account, and cash‑flow statement – are required to be prepared and reported in **US dollars (USD)**.  
+
+- The FE Framework explicitly states that “financial reporting to the Authority is generally conducted in USD” (see the FE Framework 2022, Section on Financial Reporting).  
+- While a TechFin company may keep internal books or subsidiary accounts in Indian rupees (INR) for day‑to‑day operations, the *official* balance sheet that is filed with IFSCA must be in USD.  
+
+Therefore, you cannot use INR as the currency for the official balance sheet submitted to IFSCA. You may, however, maintain parallel INR‑denominated records for internal management purposes.
+
+================================================================================
+
+
+================================================================================
+Question 7:
+================================================================================
+I am a "Legal Consultancy" firm authorized under the Ancillary Framework. Am I eligible for the "FinTech Start-up Grant"?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+No. The Incentive Scheme  restricts eligibility to a "FinTech Entity (FE)". A Legal Consultancy falls under "Ancillary Services", not "FinTech," and thus does not qualify for FE grants.
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**No.**  
+A legal‑consultancy that is only authorized under the Ancillary Services Framework does not qualify as a *FinTech Entity* and therefore is not eligible for the FinTech Start‑up Grant.
+
+**Why?**  
+1. **Grant eligibility** – The FinTech Start‑up Grant is specifically earmarked for *FinTech Entities* (FE) that are authorized under the FE Framework 2022.  
+2. **Ancillary vs. FinTech** – The Ancillary Services Framework (2021 Circular, 2023 Circular, 2025 Amendments) governs ancillary service providers such as legal consultancies, compliance services, etc. It does not confer the status of a FinTech Entity.  
+3. **Regulatory definition** – A FinTech Entity is defined in the FE Framework as an organization that offers technologically enabled financial services or solutions and is authorized by IFSCA to operate within the IFSC sandbox. A legal consultancy, while authorized under the Ancillary Framework, does not provide a FinTech solution and therefore does not meet this definition.  
+
+Hence, under the current regulatory framework, a legal‑consultancy firm authorized only under the Ancillary Framework cannot apply for or receive the FinTech Start‑up Grant.
+
+================================================================================
+
+
+================================================================================
+Question 8:
+================================================================================
+If my promoter's home jurisdiction is suddenly identified as "High-Risk" by FATF, within how many days must I notify the Authority?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+10 business days from the date of publication by FATF.
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Yes – you must notify the Authority within **10 days** of the FATF designation.**
+
+**Why?**  
+1. **FATF High‑Risk Identification** – When a promoter’s home jurisdiction is newly listed as a high‑risk jurisdiction by FATF, the FinTech Entity Framework (2022) requires the applicant to inform the Authority promptly.  
+2. **Notification Window** – Regulation 4(1) of the FinTech Entity Framework (2022) states: *“An applicant shall notify the Authority within ten (10) days of any change in the FATF status of its promoters’ home jurisdiction.”*  
+3. **Purpose** – This 10‑day window ensures that the Authority can reassess the applicant’s risk profile, update due‑diligence records, and take any necessary supervisory actions in a timely manner.
+
+So, as soon as you learn that your promoter’s jurisdiction has been flagged by FATF, submit the notification to the Authority no later than 10 days from that date.
+
+================================================================================
+
+
+================================================================================
+Question 9:
+================================================================================
+What is the difference between a "Regulatory Sandbox" and an "Innovation Sandbox" in the context of IFSCA?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+Regulatory Sandbox: Live environment with real customers/data where regulations are relaxed .Innovation Sandbox: Testing environment in isolation from the live market using market-related data (no real customers).
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Yes.**  
+- **Regulatory Sandbox** – a live testing environment where a FinTech Entity operates with **real customers and real customer data** under relaxed regulatory conditions.  
+- **Innovation Sandbox** – an isolated testing environment that uses only **market‑related data** and **no real customers**; it is strictly for experimentation before any live deployment.
+
+**Why this matters**  
+- In a Regulatory Sandbox, the entity must comply with all applicable consumer‑protection and AML/KYC rules while interacting with actual users, but certain regulatory requirements are temporarily eased.  
+- In an Innovation Sandbox, the entity can prototype and validate its solution without exposing real customers, thereby limiting regulatory exposure and risk.
+
+**Key reference**  
+- Sandbox Definitions table (Key Distinction) – “Regulatory Sandbox = LIVE environment with REAL customers and REAL data; Innovation Sandbox = ISOLATED testing environment with NO real customers.”
+
+================================================================================
+
+
+================================================================================
+Question 10:
+================================================================================
+To claim the first 25% disbursement of the 'Listing Support Grant', what specific document must be submitted?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+Draft Offer Document. Milestone 1 (M1) for Listing Support Grant requires "Submission of Draft Offer Document to IFSCA". 
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Yes.**  
+To claim the first 25 % disbursement of the **Listing Support Grant**, you must submit the **Draft Offer Document** to IFSCA.  
+
+*This is the required document for M1 (First Disbursement) as per the Grant Milestone Requirements table for the Listing Support Grant.*
+
+================================================================================
+
+
+================================================================================
+Question 11:
+================================================================================
+What is the "Application Fee" for a Foreign FinTech Applicant seeking entry into the IFSCA Regulatory Sandbox?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+USD 100. (Source: FE Framework 2022, Annexure-VIII).
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Yes.**  
+The fee for a foreign FinTech applicant to apply for entry into the IFSCA Regulatory Sandbox is **USD 100**.
+
+*Source:*  
+- **Fee Structure (FE Framework 2022, Annexure‑VIII)** – “Regulatory Sandbox Application Fee” is USD 500 for domestic applicants and **USD 100 for foreign applicants**.
+
+================================================================================
+
+
+================================================================================
+Question 12:
+================================================================================
+According to the 2025 Amendment to the Ancillary Services Framework, are "Family Investment Funds (FIF)" covered under Trusteeship Services?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+Yes. The 2025 Amendment explicitly substitutes the definition of Trusteeship Services to include Family Investment Funds (FIF).
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Yes.**  
+According to the 2025 Amendment to the Ancillary Services Framework (International Financial Services Centres Authority (TechFin and Ancillary Services) Regulations, 2025), Family Investment Funds (FIF) are explicitly listed as a permissible ancillary service under **Trusteeship Services**. The amendment expands the scope of trusteeship to include family‑managed investment vehicles, thereby covering FIFs within the trusteeship framework.
+
+================================================================================
+
+
+================================================================================
+Question 13:
+================================================================================
+I am a "Ship Broker" authorized under the April 2023 Circular. Do I qualify as a "TechFin Provider" under the new 2025 Regulations?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+No. You qualify as an Ancillary Service Provider. • Hop 1: Circular 2023 classifies Ship Broking as "Ancillary".• Hop 2: 2025 Regulations separate "Ancillary" (First Schedule) from "TechFin" (Second Schedule).
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**No.**  
+A ship broker is classified as an **Ancillary Service Provider**, not a TechFin Provider, under the 2025 Regulations.
+
+**Why?**
+
+1. **2023 Circular (Ancillary Services Framework)** – The April 2023 Circular lists ship broking as an ancillary service.  
+2. **2025 Regulations – TechFin and Ancillary Services** – The First, Second, and Third Schedules of the 2025 Regulations enumerate the services that qualify as TechFin services. Ship broking is *not* included in any of these schedules; it remains an ancillary service.  
+3. **Regulatory Distinction** – The 2025 Regulations maintain the separation between TechFin and Ancillary services, with ship broking continuing to fall under the ancillary category as per the 2023 Circular.
+
+Hence, as a ship broker authorized under the April 2023 Circular, you do **not** qualify as a TechFin Provider under the new 2025 Regulations.
+
+================================================================================
+
+
+================================================================================
+Question 14:
+================================================================================
+Can I claim reimbursement for "Laptop and Server" costs under the "Green FinTech Grant"?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+Yes. • Hop 1: Incentive Scheme lists "Green FinTech Grant".• Hop 2: FAQs on Milestones (Part B) lists "Hardware, IT equipment, servers" as Permissible Expenses for reimbursement.
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Yes.**  
+
+Under the *FAQs on Milestones – Part B* (which applies to all grant categories of the IFSCA FinTech Incentive Scheme, including the Green FinTech Grant), the following are listed as permissible expenses for reimbursement:
+
+- Hardware, IT equipment, servers, laptops  
+- Cloud services and hosting  
+- Software licenses, consultancy fees, professional services, etc.  
+
+Since “laptop” and “server” fall under the hardware/IT equipment category, you may claim reimbursement for those costs under the Green FinTech Grant.
+
+================================================================================
+
+
+================================================================================
+Question 15:
+================================================================================
+Which is more expensive over 2 years: A "Foreign Sandbox" entity (Limited Use) or a "Domestic FinTech" entity (Standard Authorization)?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+Domestic FinTech is more expensive. • Hop 1 (Foreign): App($100) + Auth($500) + Ext($500) = **$1,100**.• Hop 2 (Domestic): App($500) + Auth($1,500 x 2) = $3,500.• Hop 3: Compare $3,500 > $1,100.
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Domestic FinTech (Standard Authorization) is more expensive over 2 years.**
+
+**Why?**
+
+| Entity | Fees (per the FE Framework 2022, Annexure‑VIII) | 2‑Year Cost |
+|--------|-----------------------------------------------|-------------|
+| **Foreign Sandbox (Limited Use)** | • Regulatory Sandbox Application Fee: **USD 100** (foreign applicant)  <br>• Limited Use Authorization Fee: **USD 500** (one‑time) | **USD 600** (USD 100 + USD 500) |
+| **Domestic FinTech (Standard Authorization)** | • Standard Authorization Fee: **USD 1,500 per annum** | **USD 3,000** (USD 1,500 × 2) |
+
+- The Foreign Sandbox entity incurs only the application and one‑time Limited Use Authorization fees; there is no annual fee listed for the sandbox period.  
+- The Domestic FinTech entity pays the Standard Authorization fee every year, amounting to USD 3,000 over two years.
+
+Thus, the Domestic FinTech Standard Authorization is **USD 2,400 more expensive** than the Foreign Sandbox Limited Use over a 2‑year horizon.
+
+================================================================================
+
+
+================================================================================
+Question 16:
+================================================================================
+I have an "In-Principle" approval for the Listing Support Grant. What specific document must I submit to release the final payment (Milestone 2)?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+Proof of successful listing on the Stock Exchange. • Hop 1: Incentive Scheme identifies "Listing Support Grant".• Hop 2: FAQs on Milestones defines M2 for Listing Grant as "Successful Listing".• Hop 3: Document required is implied/stated as proof thereof.
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Yes.**  
+For the Listing Support Grant, the final (M2) disbursement is released only after you submit **proof of successful listing on a stock exchange**. This requirement is specified in the Grant Milestone Requirements table for the Listing Support Grant.
+
+================================================================================
+
+
+================================================================================
+Question 17:
+================================================================================
+I am a "Voice Broker" from a jurisdiction listed on the FATF "High-Risk" list. Can I apply for the "FinTech Start-up Grant"?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+No. • Hop 1: Voice Broking is an Ancillary Service (Circular 2023).• Hop 2: Ancillary Services are now governed by TechFin Regs 2025.• Hop 3: Regs 2025 (Snippet) mandates notifying/restricts FATF High-Risk jurisdictions.• Hop 4: Incentive Scheme requires "Fit and Proper" status; FATF listing likely disqualifies.
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**No.**  
+
+**Why?**  
+1. **Eligibility by jurisdiction** – The FinTech Incentive Scheme 2022 (and its FAQs on Milestones) explicitly states that grant applicants must be from a jurisdiction that is *not* listed on the FATF “High‑Risk” list. A Voice Broker based in a high‑risk jurisdiction therefore does not meet the jurisdictional eligibility criterion.  
+2. **Entity type** – The FinTech Start‑up Grant is reserved for **FinTech Entities (FEs)** that develop and launch technology‑enabled financial services. A Voice Broker is classified as an **Ancillary Service Provider** under the Ancillary Services Framework, not as an FE. Ancillary Service Providers are not eligible for the FinTech Start‑up Grant.  
+
+Hence, a Voice Broker from a FATF high‑risk jurisdiction cannot apply for the FinTech Start‑up Grant.
+
+================================================================================
+
+
+================================================================================
+Question 18:
+================================================================================
+If I apply for an "Accelerator Grant" today, can I use the funds to pay for "Legal Consultancy" services provided by a firm in Mumbai (outside IFSC)?
+
+----------------------------------------
+Expected Answer:
+----------------------------------------
+Yes, but restricted. • Hop 1: Incentive Scheme defines "Accelerator Grant".• Hop 2: FAQs on Milestones lists "Consultancy fees" as permissible.• Hop 3: FE Framework allows sourcing services from outside, BUT...• Hop 4: Payment must be for eligible expenses. If the consultancy is for the project in IFSC, it is reimbursable. The "Mumbai" location is not a hard block for vendors, only for the applicant's registration.
+
+----------------------------------------
+Chatbot Response:
+----------------------------------------
+**Yes.**  
+
+Under the IFSCA FinTech Incentive Scheme, the Accelerator Grant (up to Rs 10 lacs) can be used to reimburse *consultancy fees (legal, technical, compliance)*, as listed in the “Permissible Expenses for Grant Reimbursement” section of the FAQs on Milestones (Part B). The guidance does not restrict the service provider to be located within the IFSC; it simply requires that the expense be a legitimate consultancy fee. Therefore, you may engage a legal consultancy firm based in Mumbai (outside the IFSC) and claim the fees against the Accelerator Grant.
+
+================================================================================
+
