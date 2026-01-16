@@ -16,7 +16,7 @@ export function ChatInput({
   onStop,
 }: ChatInputProps) {
   const textareaRef = useRef<HTMLTextAreaElement>(null);
-  const containerRef = useRef<HTMLDivElement>(null);
+  const containerRef = useRef<HTMLFormElement>(null);
 
   // Auto-resize textarea
   useEffect(() => {

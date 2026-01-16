@@ -1,5 +1,6 @@
 'use client';
 
+import { useCallback } from 'react';
 import { useChat } from '@ai-sdk/react';
 import { MessageList } from '@/components/chat/MessageList';
 import { ChatInput } from '@/components/chat/ChatInput';
@@ -16,6 +17,7 @@ export default function ChatPage() {
     reload,
     stop,
     data,
+    append,
   } = useChat({
     api: '/api/chat',
     onError: (error) => {
@@ -24,6 +26,11 @@ export default function ChatPage() {
   });
 
   const progressTracking = useProgressTracking(data, isLoading);
+
+  // Handle clicking on a sample question
+  const handleQuestionClick = useCallback((question: string) => {
+    append({ role: 'user', content: question });
+  }, [append]);
 
   return (
     <div className="fixed inset-0 flex flex-col bg-white">
@@ -55,6 +62,7 @@ export default function ChatPage() {
             messages={messages}
             isLoading={isLoading}
             progressTracking={progressTracking}
+            onQuestionClick={handleQuestionClick}
           />
 
           {error && (

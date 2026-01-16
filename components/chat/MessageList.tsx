@@ -1,7 +1,8 @@
 import { Message } from '@ai-sdk/react';
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState, useMemo } from 'react';
 import { MessageItem } from './MessageItem';
 import { ThinkingPanel, type ThinkingStep } from './ThinkingPanel';
+import { SAMPLE_QUESTIONS } from '@/lib/sample-questions';
 
 interface ProgressTracking {
   steps: ThinkingStep[];
@@ -13,29 +14,22 @@ interface MessageListProps {
   messages: Message[];
   isLoading: boolean;
   progressTracking?: ProgressTracking;
+  onQuestionClick?: (question: string) => void;
 }
 
-// Suggestion cards for empty state
-const SUGGESTIONS = [
-  {
-    title: 'Fund Management',
-    description: 'What are the requirements for setting up a fund in GIFT City?',
-  },
-  {
-    title: 'Banking Regulations',
-    description: 'Explain the IBU licensing requirements',
-  },
-  {
-    title: 'Compliance',
-    description: 'What are the AML/KYC requirements for IFSCA entities?',
-  },
-  {
-    title: 'FinTech',
-    description: 'How to apply for a FinTech license in IFSC?',
-  },
-];
+interface WelcomeScreenProps {
+  onQuestionClick?: (question: string) => void;
+}
 
-function WelcomeScreen() {
+function WelcomeScreen({ onQuestionClick }: WelcomeScreenProps) {
+  // Get 4 random questions on mount (client-side only)
+  const [randomQuestions, setRandomQuestions] = useState<typeof SAMPLE_QUESTIONS>([]);
+
+  useEffect(() => {
+    const shuffled = [...SAMPLE_QUESTIONS].sort(() => Math.random() - 0.5);
+    setRandomQuestions(shuffled.slice(0, 4));
+  }, []);
+
   return (
     <div className="flex flex-col items-center justify-center min-h-[60vh] px-4 py-8">
       <div className="w-12 h-12 sm:w-16 sm:h-16 rounded-full bg-emerald-600 flex items-center justify-center mb-4 sm:mb-6">
@@ -59,16 +53,17 @@ function WelcomeScreen() {
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-3 w-full max-w-2xl">
-        {SUGGESTIONS.map((suggestion, index) => (
+        {randomQuestions.map((item) => (
           <button
-            key={index}
+            key={item.id}
+            onClick={() => onQuestionClick?.(item.question)}
             className="flex flex-col items-start p-3 sm:p-4 rounded-xl border border-gray-200 hover:bg-gray-50 hover:border-gray-300 transition-all text-left group"
           >
-            <span className="font-medium text-sm text-gray-800 group-hover:text-gray-900">
-              {suggestion.title}
+            <span className="font-medium text-xs text-gray-400 group-hover:text-gray-500 mb-1">
+              {item.category}
             </span>
-            <span className="text-xs sm:text-sm text-gray-500 mt-1 line-clamp-2">
-              {suggestion.description}
+            <span className="text-sm text-gray-700 group-hover:text-gray-900 line-clamp-2">
+              {item.question}
             </span>
           </button>
         ))}
@@ -102,7 +97,7 @@ function LoadingIndicator() {
   );
 }
 
-export function MessageList({ messages, isLoading, progressTracking }: MessageListProps) {
+export function MessageList({ messages, isLoading, progressTracking, onQuestionClick }: MessageListProps) {
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -119,7 +114,7 @@ export function MessageList({ messages, isLoading, progressTracking }: MessageLi
   return (
     <div className="min-h-full">
       {messages.length === 0 ? (
-        <WelcomeScreen />
+        <WelcomeScreen onQuestionClick={onQuestionClick} />
       ) : (
         <>
           {messages.map((message, index) => {
