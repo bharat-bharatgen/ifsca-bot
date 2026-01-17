@@ -11,7 +11,7 @@ import { lightragClient, LightRAGQueryParams } from './lightrag-client';
 
 // Configuration
 export const RAG_CONFIG = {
-  maxContextLength: 120000,  // Increased to accommodate full LightRAG context
+  maxContextLength: 50000,  // Reduced for lower latency
   queryMode: 'hybrid' as const,
   truncationMessage: '\n\n[Context truncated...]',
 };
@@ -68,7 +68,7 @@ async function executeQuery(query: string, span?: RAGSpan | null): Promise<strin
     query,
     mode: RAG_CONFIG.queryMode,
     only_need_context: true,
-    top_k: 40,
+    top_k: 5,
     top_chunk_k: 20,
     max_token_for_entity: 6000,
     max_token_for_relation: 8000,
