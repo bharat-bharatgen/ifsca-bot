@@ -6,7 +6,8 @@
     "dev": "next dev -p 4001",
     "build": "next build",
     "start": "next start -p 4000",
-    "lint": "next lint"
+    "lint": "next lint",
+    "docker-build": "docker build -f Dockerfile.bun -t ifsca-docker ."
   },
   "dependencies": {
     "@ai-sdk/openai-compatible": "^0.1.0",
